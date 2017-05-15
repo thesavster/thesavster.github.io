@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 16px;
+}
+p {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+a {
+  color: aquamarine;
+}
+
+#sub p {
+  font-size: 21px;
+  color: gray;
+}
+
+h3 {
+  text-align: right;
+  color: gray;
+}
